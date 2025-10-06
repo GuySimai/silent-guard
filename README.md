@@ -125,18 +125,19 @@ python app.py
 
 ### Camera
 ```bash
-# 1. Install dependencies (if not already installed)
-sudo apt update
-sudo apt install python3-venv ffmpeg -y
+# 1. Navigate to the camera simulator directory
+cd silent-guard-server/camera
 
-# 2. Create and activate a virtual environment
+# 2. Create a virtual environment
 python3 -m venv myenv
+
+# 3. Activate it
 source myenv/bin/activate
 
-# 3. Install required packages
+# 4. Install required packages
 pip install flask opencv-python
 
-# 4. Run
+# 5. Run
 python camera_simulator.py
 ```
 
