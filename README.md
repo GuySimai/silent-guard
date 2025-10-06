@@ -8,6 +8,9 @@ A situation where a person drowns without showing obvious signs, such as shoutin
 * Research indicates that a significant portion of drowning incidents happen without visible warning signs.
 * Main causes: loss of consciousness and fatigue.
 
+## Watch: Product Overview Video (in Hebrew)
+https://drive.google.com/file/d/19ACxH8vCwOxb8mqGeBtniQEhltFD7dsO/view?usp=drive_link
+
 ## high-level architecture diagram
 <img width="1236" height="696" alt="Screenshot 2025-10-06 at 16 15 54" src="https://github.com/user-attachments/assets/87ddf07a-f362-4527-b629-540b975a89da" />
 
